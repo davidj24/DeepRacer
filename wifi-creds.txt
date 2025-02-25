@@ -1,2 +1,2 @@
-ssid; 'iPhone Krish'
+ssid: 'iPhone Krish'
 password: 'password'
