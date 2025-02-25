@@ -1,2 +1,2 @@
-ssid: 'iPhone Krish'
-password: 'password'
+ssid: '824226'
+password: 'bballitnok43ver'
