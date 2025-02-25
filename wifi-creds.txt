@@ -1,0 +1,2 @@
+ssid; 'iPhone Krish'
+password: 'password'
